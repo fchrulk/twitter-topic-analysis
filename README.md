@@ -29,9 +29,10 @@ Tweets data collected using Jupyter Notebook with Python 3 ([tweepy](https://git
 
 ### 2. Pre-Processing Tweets Data
 In this step I will parsing the search result using [Pyspark](https://spark.apache.org/docs/latest/api/python/index.html) or [Pandas](https://pandas.pydata.org/) (you just need choose one approach).
-I named the script for parsing as follows:
-1. [PreProcessing Tweets Data - Pyspark.ipynb]
-2. [PreProcessing Tweets Data - Pandas.ipynb]
+I named the scripts for parsing as follows:
+1. [PreProcessing Tweets Data - Pyspark.ipynb](https://github.com/fchrulk/twitter-topic-analysis/blob/master/PreProcessing%20Tweets%20Data%20-%20Pyspark.ipynb)
+2. [PreProcessing Tweets Data - Pandas.ipynb](https://github.com/fchrulk/twitter-topic-analysis/blob/master/PreProcessing%20Tweets%20Data%20-%20Pandas.ipynb)
+
 As we know that result output from *Mining Tweets Data* saved in json format, I only take the required fields for my analysis then save it into csv format. I think we will easily make some visualizations or analysis on tabular data.
 
 I will divide the json output into two parts, namely: *Collection of Tweets* and *Collection of Users*
