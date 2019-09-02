@@ -46,8 +46,7 @@ I will divide the json output into two parts, namely: *Collection of Tweets* and
 | `user_screenname` | Screen name or username of the user who created tweet | `user` `screen_name` |
 | `user_followings_count` | Number of followings of the user who created tweet | `user` `friends_count` |
 | `user_followers_count` | Number of folowers of the user who created tweet | `user` `followers_count` |
-| `user_tweets_count` | Number of folowers of the user who created tweet | `user` `statuses_count` |
-| `user_location` | Location of the user who created tweet (Based on his profile) | `user` `location` |
+| `user_tweets_count` | Number of tweets of the user who created tweet | `user` `statuses_count` |
 | `is_verified` | Whether the user who created tweet is verified user or not | `user` `verified` |
 | `tweet_text` | Text of the tweet | `full_text` |
 | `favorite_count` | Number of favorites obtained by related tweet | `favorite_count` |
@@ -76,7 +75,8 @@ I will divide the json output into two parts, namely: *Collection of Tweets* and
 | `user_followings_count` | Number of followings of the user who created tweet | `user` `friends_count` |
 | `user_followers_count` | Number of folowers of the user who created tweet | `user` `followers_count` |
 | `user_tweets_count` | Number of folowers of the user who created tweet | `user` `statuses_count` |
-| `user_location` | Location of the user who created tweet (Based on his profile) | `user` `location` |
+| `user_city` | City of the user who created tweet (Based on his profile) | `user` `location` |
+| `user_province` | City of the user who created tweet (Based on his profile) | `user` `location` |
 | `is_verified` | Whether the user who created tweet is verified user or not | `user` `verified` |
 
 ### 3. Exploratory Data Analysis
