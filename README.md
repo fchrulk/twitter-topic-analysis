@@ -83,3 +83,6 @@ I will divide the json output into two parts, namely: *Collection of Tweets* and
 ### 4. Simple Dashboard
 ### 5. Perform Stastical Analysis
 
+#### Feel Free to Discuss :relieved:
+:coffee: LinkedIn&ensp;: [Fachrul Kurniansyah](https://www.linkedin.com/in/fchrulk)<br>
+:e-mail: Email&ensp;&ensp;&ensp;&ensp;: fachrul.kurniansyah@gmail.com
